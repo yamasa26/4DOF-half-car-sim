@@ -27,3 +27,7 @@ g++ -I /path/to/eigen src/half-car-sim.cpp -o half_car_sim
 python scripts/sim-viewer.py
 ```
 
+## 参考資料
+https://www.researchgate.net/publication/257099759_Numerical_modeling_of_traffic-induced_ground_vibration
+https://share.google/jbc5ZyiEJo7goVo64
+
